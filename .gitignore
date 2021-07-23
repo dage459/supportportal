@@ -35,4 +35,9 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### own ###
+temp.mv.db
 /temp.mv.db
+.temp.mv.db
+/.temp.mv.db
