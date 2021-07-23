@@ -1,7 +1,5 @@
 package io.supportportal.constant;
 
-import org.springframework.beans.factory.annotation.Value;
-
 public class SecurityConstant {
     public static final long EXPIRATION_TiME = 432_000_000; // 5 days expressed in milliseconds
     public static final String TOKEN_PREFIX = "Bearer ";
